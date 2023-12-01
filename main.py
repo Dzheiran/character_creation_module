@@ -91,7 +91,9 @@ def choice_char_class() -> str:
 
 
 if __name__ == '__main__':
-    """Запуск игры, знакомство и запуск функции choice_char_class, start_trainin."""
+    """Запуск игры, знакомство и запуск функции
+    choice_char_class, start_trainin.
+    """
     run_screensaver()
     print('Приветствую тебя, искатель приключений!')
     print('Прежде чем начать игру...')
